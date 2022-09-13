@@ -8,4 +8,4 @@
 
 **`PAGE:`**
 
-[https://probablyxs.github.io/responsive-navbar/](url)
+https://probablyxs.github.io/responsive-navbar/
