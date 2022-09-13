@@ -1,0 +1,28 @@
+/* ---------- RESPONSIVE ---------- */
+
+/* Desktop */
+@media only screen and (min-width: 1024px) {}
+
+/* Tablets */
+@media only screen and (min-width: 768px) {
+
+
+  /* NAVIGATION BAR */
+
+  .navbar {
+    justify-content: end;
+  }
+
+  .navbarLeftTitle {
+    flex: auto;
+  }
+
+  .navbarRightLink {
+    display: contents;
+  }
+
+  .fa-bars {
+    display: none;
+  }
+
+}
